@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/alcatel/pop35" name="zombah/android_device_alcatel_pop35" revision="twrp-5.1" />
+</manifest>
