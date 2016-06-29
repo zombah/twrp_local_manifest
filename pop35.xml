@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/alcatel/pop35" remote="github" name="zombah/android_device_alcatel_pop35" revision="twrp-5.1" />
+	<project path="device/alcatel/pop35" remote="github" name="zombah/android_device_alcatel_pop35" revision="twrp-5.1" />
+	<project path="kernel/alcatel/msm8909" remote="github" name="zombah/android_kernel_alcatel_msm8909" revision="android-5.1" />
 </manifest>
